@@ -8,5 +8,7 @@
 - [题目介绍](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100068.5678.1.62123dae2OeRKi&raceId=231615)
 
 - [天池技术圈-优秀的解决方案](https://tianchi.aliyun.com/forum/detail_v1.htm?spm=5176.11165320.5610723.16.54206d33fvzZhp#type%3DPROJECT%2CNOTES%2CISSUES%2CLIVE%2CACTIVITY%26pageIndex%3D1%26raceId%3D231615)
+- [BuildingChangeDetector-top6](https://github.com/LiuDongjing/BuildingChangeDetector)
 
 - [【Keras】基于SegNet和U-Net的遥感图像语义分割](http://www.cnblogs.com/skyfsm/p/8330882.html)
+
